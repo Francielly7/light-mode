@@ -1,0 +1,55 @@
+div {
+    border-radius: 7px;
+    font-family: 'verdana', sans-serif;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.theme {
+    background-color: ghostwhite;
+    height: 300px;
+    font-style: italic;
+    margin: 50px;
+    border-radius:50px;
+}
+.options {
+    height: 70px;
+    background-color: gainsboro;
+}
+button {
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 40px;
+    width: 70px;
+    margin: 15px 5px 5px 0;
+}
+img {
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+.label {
+    font-size: 30px;
+    margin-top: 3px;
+    margin-block: 35px;
+   
+}
+.dark {
+    background-color: lightsteelblue;
+}
+.light {
+    background-color: ghostwhite;
+}
+.ninja {
+    background-color: darkgray;
+}
+.dark:hover {
+    background-color: rgb(102, 139, 161);
+}
+.light:hover {
+    background-color:rgb(217, 214, 214) ;
+}
+.ninja:hover {
+    background-color: rgb(66, 64, 64);
+}
